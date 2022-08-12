@@ -26,7 +26,7 @@ Pra mim programar é mais que desenvolver código, é arte, então: **Bem vindo 
 <br/>
 <br/>
 <div align="center">
-    <br />
+  <a href="https://github.com/ThalysSilva">
     <img
     align="center"
     alt="Know-Js"
@@ -132,6 +132,7 @@ Pra mim programar é mais que desenvolver código, é arte, então: **Bem vindo 
     width="40"
     src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
     />
+  </a>
 </div>
 <br/>
 
