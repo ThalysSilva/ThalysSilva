@@ -1,7 +1,6 @@
 # Primeiramente, Bem vindo(a)! !!
 #### >> Meu ponto focal: **Qualidade**
 #### >> Meu lema é : quero que quando meu código seja revisitado, o revisor se sinta amado.
-##
 
 Pra mim programar é mais que desenvolver código, é arte, então: **Bem vindo ao meu atelier!**
 
