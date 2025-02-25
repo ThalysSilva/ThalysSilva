@@ -4,6 +4,8 @@
 
 Pra mim programar é mais que desenvolver código, é arte, então: **Bem vindo ao meu atelier!**
 
+Caso se interesse em conhecer mais minha carreira profissional, segue meu [curriculo](https://github.com/ThalysSilva/curriculo/tree/main)
+
 <br/>
 <br/>
 
