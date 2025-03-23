@@ -10,18 +10,14 @@ Caso se interesse em conhecer mais minha carreira profissional, segue meu [curri
 <br/>
 
 <div align="center">
-    <a href="https://github.com/ThalysSilva">
     <img
         height="180em"
         src="http://github-readme-streak-stats.herokuapp.com?user=ThalysSilva&theme=dracula"
     />
-    </a>
-    <a href="https://github.com/ThalysSilva">
     <img
         height="180em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalysSilva&layout=compact&theme=dracula"
     />
-    </a>
 </div>
 <br/>
 <br/>
